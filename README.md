@@ -1,4 +1,4 @@
-Understanding Cisco DMVPN (Dynamic Multi-point VPN)
+**Understanding Cisco DMVPN (Dynamic Multi-point VPN)**
 
 Dynamic multi-point VPN is a cost-effective solution for interconnecting lots of branch offices together with ease of configuration and security. 
 It reduces the configuration complexity and increases flexibility and scalability.
@@ -9,16 +9,16 @@ resources anywhere from the locations.
 DMVPN utilizes mGRE tunnels, NHRP, and IPSec encryption to interconnect spoke and hub routers together without compromising security and 
 flexibility.
 
-DMVPN Components
+**DMVPN Components**
 
- mGRE tunnels
+ **mGRE tunnels**
 
   Next hop Resolution Protocol (NHRP)
 
    Routing Protocols
     Dynamic IPSec encryption
 
-mGRE Tunnels
+**mGRE Tunnels**
 
    No need to configure the Tunnel destination.
     Mapping is through NHRP Protocol.
@@ -27,7 +27,7 @@ mGRE Tunnels
 
    Only needed tunnel source and mode to mGRE for enable configuration.
 
-NHRP Next hop resolution Protocol
+**NHRP Next hop resolution Protocol**
 
    Map the tunnel with the NBMA address.
 
@@ -45,13 +45,13 @@ Next hop clients NHC
 
    NHS reply with specific info to NHC
 
-NHRP Messages
+**NHRP Messages**
 
    NHRP Registration request
 
-Spoke registered with public IP and tunnel IP to NHS.
+   Spoke registered with public IP and tunnel IP to NHS.
 
-Required to build spoke to hub tunnel.
+   Required to build spoke to hub tunnel.
 
   NHRP Request
 
@@ -67,7 +67,7 @@ NHS answers with spoke to spoke info in it.
 
  
 
-DMVP operation
+**DMVP operation**
 
  
 
