@@ -85,5 +85,5 @@ NHS answers with spoke to spoke info in it.
 
 **See the below sample diagram for the configuration of a DMVPN**
 
-![image](https://user-images.githubusercontent.com/49310101/118483513-b8687280-b733-11eb-8f3f-68a64d1d97b8.png)
+![image](https://user-images.githubusercontent.com/49310101/118483699-f49bd300-b733-11eb-8774-008321747a26.png)
 
