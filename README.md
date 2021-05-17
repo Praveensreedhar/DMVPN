@@ -83,4 +83,7 @@ NHS answers with spoke to spoke info in it.
 
    All the traffic from source to destination in went through the GRE tunnel are encrypted by IPSec protocol.
 
-See the below sample diagram for the configuration of a DMVPN
+**See the below sample diagram for the configuration of a DMVPN**
+
+![image](https://user-images.githubusercontent.com/49310101/118483513-b8687280-b733-11eb-8f3f-68a64d1d97b8.png)
+
