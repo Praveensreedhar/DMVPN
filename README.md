@@ -11,7 +11,7 @@ flexibility.
 
 DMVPN Components
 
-    mGRE tunnels
+ mGRE tunnels
 
     Next hop Resolution Protocol (NHRP)
 
